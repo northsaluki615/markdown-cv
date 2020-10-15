@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michael Helmers's CV
 ---
-# Isaac Newton
+# Michael Helmers
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mikehelmers@protonmail.com">mikehelmers@protonmail.com</a>
+| <a href="https://helmers.io">My Tech Website</a>
 </div>
 
 
@@ -27,49 +27,14 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2004-2008`
+__Southern Illinois University Carbondale, Carbondale, IL__
+_Bachelor of Science in Business Management_
 
 ## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+*Eagle Scout Award­ _August 2002_
+*La Crosse Area Big Brothers Big Sisters Volunteer­ _May 2015_
+*Honor Graduate- US Army 25U Signal Support Systems Specialist Course _August 2018_
 
 ## Occupation
 
